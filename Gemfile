@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'haml', '~> 5.1', '>= 5.1.1'
 gem 'simple_form'
 gem 'boostrap-sass', '~> 0.0.2'
+gem 'devise', '~> 4.2'
 
 # gem 'haml', '~> 4.0.5'
 # gem 'simple_form', '~> 3.0.2'

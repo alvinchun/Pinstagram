@@ -1,1 +1,3 @@
-class Pic < ApplicationRecord; end
+class Pic < ApplicationRecord
+	belongs_to :user
+end
