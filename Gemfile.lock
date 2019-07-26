@@ -221,7 +221,7 @@ DEPENDENCIES
   rails (~> 5.2.3)
   sass-rails (~> 5.0)
   selenium-webdriver
-  simple_form (~> 4.1)
+  simple_form
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3

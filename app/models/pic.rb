@@ -1,2 +1,1 @@
-class Pic < ApplicationRecord
-end
+class Pic < ApplicationRecord; end
