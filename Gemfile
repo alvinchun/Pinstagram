@@ -27,14 +27,16 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'jquery'
+gem 'jquery-rails'
 gem 'haml', '~> 5.1', '>= 5.1.1'
 gem 'simple_form'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'devise', '~> 4.2'
 gem "paperclip", "~> 6.0.0"
-
-
+gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.12.1'
 
 
 # gem 'haml', '~> 4.0.5'
