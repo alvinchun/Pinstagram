@@ -37,6 +37,8 @@ gem 'devise', '~> 4.2'
 gem "paperclip", "~> 6.0.0"
 gem 'masonry-rails'
 gem 'acts_as_votable', '~> 0.12.1'
+gem 'prettier'
+
 
 
 # gem 'haml', '~> 4.0.5'
